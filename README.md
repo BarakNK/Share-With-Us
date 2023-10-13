@@ -1,1 +1,1 @@
-# y2s18-heroku-demo
+A website for people to share their feelings
